@@ -1,6 +1,6 @@
 # gulpcss-samplecode
 
-書籍「gulpで楽にするCSS設計」用サンプルコード
+書籍「gulpで楽にするCSS管理」用サンプルコード
 
 # 書籍最新情報
 
